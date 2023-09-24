@@ -15,13 +15,16 @@
 
 ## How to use the mode?
 1. Download "requirements.txt"
-2- Type the following command to install the requirements using pip:
+4- Inside the "use the model" folder, run the "predict.py" by typing the following command:
    ```bash
    python3 predict.py
-   ``` 
+   ```
 3- Download "use the model" folder.
 4- Inside the "use the model" folder, run the "predict.py" by typing the following command:
    ```bash
    python3 predict.py
-   ``` 
+   ```
+2- Type the following command to install the requirements using pip:
+   ```bash
+   pyth
 
