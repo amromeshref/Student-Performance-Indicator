@@ -16,7 +16,7 @@
 ## How to use the mode?
 1. Download "requirements.txt"
 2- Type the following command to install the requirements using pip:
-```bash
+     ```bash
    pip install -r requirements.txt
    ```
 3- Download "use the model" folder.
