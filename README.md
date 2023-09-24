@@ -16,6 +16,7 @@
 ## How to use the mode?
 1. Download "requirements.txt"
 2- Type the following command to install the requirements using pip:
+
    ```bash
    pip install -r requirements.txt
    ```
