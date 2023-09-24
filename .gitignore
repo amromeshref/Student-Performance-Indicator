@@ -7,11 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-Some Concepts.ipynb
-git-cheat-sheet-education.pdf
-notebook/
-.vscode/
 .Python
+git-cheat-sheet-education.pdf
+.vscode/
 build/
 develop-eggs/
 dist/
