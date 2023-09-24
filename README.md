@@ -19,9 +19,10 @@
     ```bash
     pip install -r requirements.txt
     ```
-3- Download "use the model" folder
+3- Download "use the model" folder.
 4- Inside the "use the model" folder, run the "predict.py" by typing the following command:
-    ```bash
-    python3 predict.py
-    ``` 
+
+   ```bash
+   python3 predict.py
+   ``` 
 
