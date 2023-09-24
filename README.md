@@ -7,8 +7,8 @@
    1. Gender
    2. Race/ethnicity
    3. Parental level of education
-   4. The student had/didn't have lunch before exam
-   5. Student completed the test preparation course description 
+   4. The student had/didn't have lunch before the exam
+   5. Student completed the test preparation course 
 
 
 - The data used in training is from https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
