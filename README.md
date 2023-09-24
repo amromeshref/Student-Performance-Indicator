@@ -23,5 +23,5 @@
 4- Inside the "use the model" folder, run the "predict.py" by typing the following command:
     ```bash
     python3 predict.py
-    ```  
+    ``` 
 
